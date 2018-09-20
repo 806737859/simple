@@ -2,4 +2,4 @@ myConfig:
     application: application
     label: master
     profile: default
-    git-repository: simple
+    gitRepository: simple
