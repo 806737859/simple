@@ -1,1 +1,5 @@
-myConfig: master application default simple
+myConfig: 
+    application: application
+    label: master
+    profile: default
+    git-repository: simple
